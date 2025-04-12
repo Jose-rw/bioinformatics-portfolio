@@ -1,0 +1,18 @@
+---
+title: "Gene Expression Analysis - GSE7390"
+format: html
+---
+
+# Gene Expression Analysis - GSE7390
+
+This project demonstrates differential gene expression analysis using the GSE7390 breast cancer dataset.
+
+**Tools Used**: R, GEOquery, limma, pheatmap
+
+## Objectives
+- Download and normalize GEO microarray data
+- Identify differentially expressed genes
+- Create heatmaps and volcano plots
+- Perform pathway enrichment analysis
+
+_Results and figures will be displayed here._

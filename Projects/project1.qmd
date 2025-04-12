@@ -1,1 +1,18 @@
-Just to create the folder.
+---
+title: "Survival Analysis with TCGA-BRCA"
+format: html
+---
+
+# Survival Analysis with TCGA-BRCA
+
+In this project, I analyzed clinical data from TCGA-BRCA to explore survival outcomes.
+
+**Tools Used**: R, TCGAbiolinks, survminer
+
+## Objectives
+- Load and clean TCGA clinical data
+- Generate Kaplan-Meier curves
+- Perform Cox proportional hazards modeling
+- Visualize survival curves by subtype
+
+_Results and figures will be displayed here._

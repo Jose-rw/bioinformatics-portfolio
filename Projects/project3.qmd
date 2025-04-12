@@ -1,0 +1,17 @@
+---
+title: "Automated Workflow with Snakemake"
+format: html
+---
+
+# Automated Workflow with Snakemake
+
+This simulated project shows a basic bioinformatics pipeline for read alignment and count generation using Snakemake.
+
+**Tools Used**: Snakemake, Conda, bash scripting
+
+## Objectives
+- Build a Snakemake pipeline
+- Define reproducible rules and environments
+- Visualize pipeline graph
+
+_Pipeline diagram and example rules will be shown here._
