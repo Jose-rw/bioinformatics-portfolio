@@ -1,0 +1,10 @@
+---
+title: "José Adrián Naranjo"
+format: html
+---
+
+# Welcome
+
+I'm a Biomedical Engineer and Clinical Programmer transitioning into Bioinformatics. I specialize in integrating clinical and genomic data to support data-driven decisions in health and life sciences.
+
+Explore my projects to learn more about my work in survival analysis, gene expression profiling, and automated bioinformatics pipelines.

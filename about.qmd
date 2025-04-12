@@ -1,0 +1,10 @@
+---
+title: "About Me"
+format: html
+---
+
+# About Me
+
+I began my career in electronics, transitioned into biomedical engineering to contribute more directly to health, and developed a strong interest in data science applied to clinical and genomic datasets. Today, I focus on using R, Python, and SAS to perform clinical data analysis and develop bioinformatics workflows.
+
+I’m passionate about making an impact through data and technology in the healthcare sector.

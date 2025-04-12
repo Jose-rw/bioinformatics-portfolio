@@ -1,0 +1,22 @@
+---
+title: "Tech Stack"
+format: html
+---
+
+# Technical Stack
+
+## Languages & Tools
+- **R** (tidyverse, Bioconductor, TCGAbiolinks, limma)
+- **Python** (pandas, numpy, matplotlib, seaborn)
+- **SAS** (Base, CDISC SDTM & ADaM)
+- **SQL**
+- **Power BI**
+- **Linux CLI**
+- **Git, GitHub**
+- **Snakemake, Conda**
+
+## Interests
+- Survival analysis
+- Biomarker discovery
+- Gene expression profiling
+- Reproducible workflows
